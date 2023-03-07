@@ -1,0 +1,15 @@
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\task50.csproj.AssemblyReference.cache
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\task50.AssemblyInfoInputs.cache
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\task50.AssemblyInfo.cs
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\task50.csproj.CoreCompileInputs.cache
+C:\ДЗ.ГБ\Homework_7_seminar\task50\bin\Debug\net6.0\task50.exe
+C:\ДЗ.ГБ\Homework_7_seminar\task50\bin\Debug\net6.0\task50.deps.json
+C:\ДЗ.ГБ\Homework_7_seminar\task50\bin\Debug\net6.0\task50.runtimeconfig.json
+C:\ДЗ.ГБ\Homework_7_seminar\task50\bin\Debug\net6.0\task50.dll
+C:\ДЗ.ГБ\Homework_7_seminar\task50\bin\Debug\net6.0\task50.pdb
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\task50.dll
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\refint\task50.dll
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\task50.pdb
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\task50.genruntimeconfig.cache
+C:\ДЗ.ГБ\Homework_7_seminar\task50\obj\Debug\net6.0\ref\task50.dll
